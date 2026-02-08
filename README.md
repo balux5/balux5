@@ -35,7 +35,7 @@ I build with **intention**.
 
 ## 👤 Personal Info
 - 🧑 Name: **Balux**
-- 🎂 Age: *(you can add this later)*
+- 🎂 Age: *(15)*
 - 🌍 Location: **Azerbaijan**
 - 💡 Focus: Logic, performance, clean structure
 
@@ -90,15 +90,17 @@ I build with **intention**.
 ## 🌐 My Websites
 > Projects & websites I’ve built 👇
 
-- 🌐 Website 1: *(add link)*
-- 🌐 Website 2: *(add link)*
-- 🌐 Website 3: *(add link)*
+- 🌐 Website 1: *(https://blux5.github.io/test/)*
+- 🌐 Website 1: *(https://blux5.github.io/illikbal/)*
+- 🌐 Website 1: *(https://blux5.github.io/About-car/)*
+- 🌐 Website 1: *(https://blux5.github.io/myself/)*
+
 
 ---
 
 ## 📫 Contact
-- 📧 Gmail: **yourmail@gmail.com**
-- 💻 GitHub: **@balux**
+- 📧 Gmail: **balux677@gmail.com**
+- 💻 GitHub: **@balux5**
 
 ---
 
