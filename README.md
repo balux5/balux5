@@ -1,66 +1,78 @@
-<h1 align="center">👋 Hey, I'm Balux</h1>
-<h3 align="center">💻 Frontend Developer • 🚀 Creative Builder • ⚡ Fast Learner</h3>
+<h1 align="center">⚡ Hey, I'm Balux</h1>
+<h3 align="center">💻 Developer | ⚡ Powered by Lightning | 🤝 Helping People with Code</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,git,github" />
 </p>
 
 <p align="center">
-  🇦🇿 Azerbaijan • 🌍 Open to learning & collaboration
+  🇦🇿 Azerbaijan • 🚀 Learning by building • ⚡ Energy from lightning
 </p>
 
 <hr>
 
-## 🧠 About Me
-I'm a passionate **Frontend Developer** who loves turning ideas into real, usable web projects.  
-I don’t just learn theory — I **build, break, fix, and improve**.
+## 🌩️ About Me
+I’m a developer who believes **code should help people**.  
+My main goal is not just writing programs — but **making life easier** with them.
 
-- ⚡ I focus on **clean & simple web apps**
-- 🛠️ I enjoy solving real problems with code
-- 🎮 I like creating **mini games & fun tools**
-- 📈 Every day = new skill, new commit
+I get my motivation from **lightning energy ⚡**:
+fast, powerful, and unstoppable.
 
-> Code is not just lines — it's thinking. 🧩
+- 🤝 Helping people through technology  
+- 🧠 Learning by real projects, not just theory  
+- ⚡ Fast ideas, clean logic  
+- 🔁 Every day improving, step by step  
 
----
-
-## 🚀 What I'm Working On
-- 🔢 Interactive calculators (grades, stats, logic)
-- 🎮 JavaScript mini-games
-- 🌐 Simple but useful websites
-- 🧪 Experiments with UI & logic
+> ⚡ If lightning had code, it would be clean and fast.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🎯 My Main Purpose
+- 🤝 Build tools that **actually help people**
+- 🌍 Create simple solutions for real problems
+- ⚡ Turn ideas into fast & efficient code
+- 📈 Grow as a developer while giving value
 
-| Technology | Level |
-|----------|-------|
+---
+
+## 🚀 What I Build
+- 🔢 Calculators & helper tools  
+- 🌐 Simple but useful websites  
+- 🎮 Mini games & logic-based apps  
+- 🧪 Experiments with performance & UI  
+
+---
+
+## 🛠️ Skills & Technologies
+
+| Language | Level |
+|--------|-------|
+| Python | 🔥 Strong |
 | HTML | ✅ Advanced |
 | CSS | ✅ Advanced |
 | JavaScript | ⚡ Improving |
-| Git & GitHub | 🔥 Active |
-| UI Logic | 🧠 Growing |
+| C++ | 🧠 Learning & Using |
+| Git / GitHub | 🚀 Active |
 
 ---
 
 ## 🌟 Featured Projects
-> Some of my favorite creations 👇
+> Projects made with purpose ⚡
 
-- 🔢 **Student Grade Calculator**  
-  👉 Calculates results instantly with clean UI
+- 🤝 **Helper Web Tools**  
+  👉 Designed to make tasks easier for users  
 
-- 🎮 **JavaScript Mini Game**  
-  👉 Pure JS logic + fun gameplay
+- 🔢 **Smart Calculators**  
+  👉 Fast logic, clean UI  
 
-- 😂 **Meme Generator**  
-  👉 Random fun, instant laughs
+- 🎮 **Mini Games**  
+  👉 Learning through fun  
 
-➡️ **Check my repositories below** — more coming soon 🚀
+➡️ More projects coming soon — always improving 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balux&show_icons=true&theme=tokyonight" />
 </p>
@@ -71,21 +83,21 @@ I don’t just learn theory — I **build, break, fix, and improve**.
 
 ---
 
-## 🎯 Goals
-- 🚀 Become a strong frontend developer
-- 🧠 Master JavaScript deeply
-- 🌍 Build projects people actually use
-- ⭐ Create repos worth starring
+## ⚡ Developer Mindset
+- ⚡ Speed matters  
+- 🧠 Logic over chaos  
+- 🤝 Help first, code second  
+- 🔁 Consistency beats talent  
 
 ---
 
-## 📫 Contact
+## 📫 Reach Me
 - GitHub: **@balux**
 
 ---
 
 <p align="center">
-  <b>Build. Break. Learn. Repeat.</b> 🔁🔥  
+  <b>⚡ Powered by Lightning. Built to Help.</b>  
   <br>
-  <i>Consistency beats talent.</i>
+  <i>Code with purpose.</i>
 </p>
