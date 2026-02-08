@@ -91,9 +91,9 @@ I build with **intention**.
 > Projects & websites I’ve built 👇
 
 - 🌐 Website 1: *(https://blux5.github.io/test/)*
-- 🌐 Website 1: *(https://blux5.github.io/illikbal/)*
-- 🌐 Website 1: *(https://blux5.github.io/About-car/)*
-- 🌐 Website 1: *(https://blux5.github.io/myself/)*
+- 🌐 Website 2: *(https://blux5.github.io/illikbal/)*
+- 🌐 Website 3: *(https://blux5.github.io/About-car/)*
+- 🌐 Website 4: *(https://blux5.github.io/myself/)*
 
 
 ---
