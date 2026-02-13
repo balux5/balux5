@@ -59,8 +59,8 @@ I build with **intention**.
 |-----|-------|
 | C++ | 🔥🔥🔥🔥☆ |
 | HTML | 🔥🔥🔥🔥☆ |
-| Python | 🔥🔥🔥☆ |
 | CSS | 🔥🔥🔥☆ |
+| Python | 🔥🔥🔥☆ |
 | JavaScript | 🔥🔥☆ |
 
 *(Levels show current state — always improving)*
